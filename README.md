@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me:
 
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/ana-filipa-flora-ribeiro/)  &nbsp; <a href="mailto:filipa.flora@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/>
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/ana-filipa-flora-ribeiro/)  &nbsp; <a href="mailto:filipa.flora@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
 
 
